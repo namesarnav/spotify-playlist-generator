@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-psycopg2-binary
-pydantic
-ollama  # For local LLM
-spotipy  # Spotify API wrapper
-python-dotenv
