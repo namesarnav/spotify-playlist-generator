@@ -6,3 +6,4 @@ pydantic
 ollama  # For local LLM
 spotipy  # Spotify API wrapper
 python-dotenv
+uuid
